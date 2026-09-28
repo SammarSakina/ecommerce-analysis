@@ -1,0 +1,16 @@
+{
+  "gross_sales": 10642110.804000001,
+  "credits": 893979.73,
+  "net_sales": 9748131.074,
+  "orders": 19960,
+  "gross_aov": 533.171883967936,
+  "credit_value_ratio": 0.08400398628287012,
+  "known_customers": 4338,
+  "repeat_customer_share": 0.6558321807284463,
+  "identified_sales_share": 0.8350983237892624,
+  "uk_net_share": 0.8400843445614097,
+  "top10_customer_gross_share": 0.17301936168487234,
+  "start": "2010-12-01",
+  "end": "2011-12-09",
+  "rfm_snapshot": "2011-12-10"
+}

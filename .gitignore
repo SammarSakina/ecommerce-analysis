@@ -1,0 +1,7 @@
+.venv*/
+__pycache__/
+.ipynb_checkpoints/
+data/*.xlsx
+data/*.sqlite
+data/processed/transactions.csv
+data/processed/excluded_records.csv
